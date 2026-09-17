@@ -26,12 +26,12 @@ Early development.
 
 ## Roadmap
 
-- [] Initial project structure
-- [] Cryptographic layer
-- [] Authentication
-- [] Credential CRUD
-- [] Authorization
-- [] Testing
-- [] Security hardening
-- [] Deployment
-- [] Complete documentation
+- [ ] Initial project structure
+- [ ] Cryptographic layer
+- [ ] Authentication
+- [ ] Credential CRUD
+- [ ] Authorization
+- [ ] Testing
+- [ ] Security hardening
+- [ ] Deployment
+- [ ] Complete documentation
